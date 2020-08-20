@@ -1,0 +1,14 @@
+body, html {
+    background-color: lightgray;
+}
+
+.hover {
+    position: fixed;
+    right: 8%;
+    bottom: 5%;
+    width: 6em;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
